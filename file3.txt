@@ -1,0 +1,10 @@
+this is file 3
+//git status => untracked file file3.txt
+
+//git add .=>Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        new file:   file3.txt
+
+//file 1 and 2 not shown beacuse we commited already
+// git commit -m "third commmit"
+
